@@ -1,5 +1,5 @@
 ## Olá, meu nome é Lucas Serrano
-<div align="center">
+<div align="center" style="max-width:100px;">
   <a href="https://github.com/SerranoZz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SerranoZz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerranoZz&layout=compact&langs_count=7&theme=dracula"/>
