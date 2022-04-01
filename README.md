@@ -1,4 +1,4 @@
-## Olá, meu nome é Lucas Serrano SerranoZz
+## Olá, meu nome é Lucas Serrano
 
 <div align="center" style="display:flex; flex-direction: row;">
   <a href="https://github.com/SerranoZz">
