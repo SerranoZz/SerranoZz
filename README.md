@@ -8,7 +8,8 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/474x/45/c5/0a/45c50ad4a3a5ae9a22ee9f57a031863a.jpg">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" 
+       src="https://i.pinimg.com/474x/45/c5/0a/45c50ad4a3a5ae9a22ee9f57a031863a.jpg">
 </div>
   
   ##
